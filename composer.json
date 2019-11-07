@@ -1,7 +1,7 @@
 {
     "name": "yokov/captcha",
     "description": "Captcha generator",
-    "license": "BSD",
+    "license": "MIT",
     "authors": [
         {
             "name": "yokov",

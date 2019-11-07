@@ -67,4 +67,4 @@ $builder->build();
 
 ### License
 
-BSD
+MIT
