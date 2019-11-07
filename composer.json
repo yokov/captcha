@@ -1,0 +1,17 @@
+{
+    "name": "yokov/captcha",
+    "description": "Captcha generator",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "yokov",
+            "email": "yokov666@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Yokov\\Captcha\\": "src"
+        }
+    }
+}
